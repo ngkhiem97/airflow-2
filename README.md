@@ -26,3 +26,10 @@ The following git stores the related information after performing the Principal 
 - preprocessing.ipynb: notebook holds Python code for preprocessing the original data in *data/CFD_Results* to the preprocessed data in *data/preprocessed*.
 - eda.ipynb: Exploratory Data Analysis with visualization of preprocessed data.
 - pca_...: perform PCA and evaluate its affect on Machine Learning models.
+
+### 4. reports
+
+- data: eigenvectors and training times from PCA and its evaluation.
+- models: trained model used in evaluation. Pickle is used to store the Linear Regression models. For the Neural Network models, they just used the save function from Keras.
+- pca_...: pdf file generated from Python notebooks.
+- Conclusion.odt and Conclusion.pdf: conlusion from the notebooks and data.
