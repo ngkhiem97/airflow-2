@@ -1,0 +1,5 @@
+Model,Training time (s)
+Linear regression,0.006689786911010742
+Linear regression with PCA,0.007543802261352539
+Neural network,64.67390871047974
+Neural network with PCA,63.3362193107605
